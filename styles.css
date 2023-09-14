@@ -24,7 +24,6 @@
     width: 80%;
 }
 
-/* CSS for Image and Video */
 .image-content {
     display: block;
 }
@@ -33,12 +32,13 @@
     display: none;
 }
 
-img {
-    width: 80%;
+#image {
+    width: 100%;
 }
 
 p {
     width: 70%;
     font-size: 16px;
 }
+
 

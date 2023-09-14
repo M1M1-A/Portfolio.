@@ -8,3 +8,4 @@ function showContent(contentType) {
         document.querySelector('.video-content').style.display = 'block';
     }
 }
+
