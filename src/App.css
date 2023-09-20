@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body {
+  /* background: linear-gradient(to bottom, #2b1b77, #8b3b84); */
+  background: #0f8094;
+  color: whitesmoke;
+}
+
+.projectTabs {
+  text-align: left;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: left;
+  padding-left: 10px;
+}
